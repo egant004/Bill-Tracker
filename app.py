@@ -1,4 +1,3 @@
-import sklearn
 import streamlit as st
 from streamlit_calendar import calendar
 import pandas as pd
