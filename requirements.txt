@@ -1,2 +1,2 @@
 streamlit==1.10.0
-git+https://github.com/username/streamlit_calendar.git#egg=streamlit_calendar
+git+https://github.com/im-perativa/streamlit-calendar.git@master#egg=streamlit_calendar
