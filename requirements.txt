@@ -1,4 +1,5 @@
 streamlit==1.10.0
-streamlit-calendar==0.0.5  # Use the correct package name and version
+calendar
+streamlit_calendar== 1.2.0  # Use the correct package name and version
 pandas==1.3.0
 scikit-learn
